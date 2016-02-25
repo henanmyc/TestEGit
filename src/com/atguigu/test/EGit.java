@@ -4,6 +4,7 @@ public class EGit {
 	
 	public static void main(String[] args) {
 		System.out.println("This in client");
+		System.out.println("This is server");
 	}
 	
 }
